@@ -4,11 +4,11 @@ import { HomeIcon } from "lucide-react";
 export const DATA = {
   name: "Nader Abdessaied",
   initials: "RF",
-  url: "https://chaima.vercel.app",
+  url: "https://naderabdessaied-portflio.vercel.app",
   location: "Tunis, TN",
   locationLink: "https://www.google.com/maps/place/tunis",
   description:
-    "Développeur Web Full-Stack ",
+    "Développeur Full-Stack ",
   summary:
     "Développeur full-stack titulaire d'un diplôme d'ingénieur logiciel et doté d'une expertise reconnue dans la création d'applications web hautes performances. Maîtrisant Python, Angular, je maitrise aussi  dans l'extraction de données avancées et les systèmes d'intégration sécurisés. Mon expérience couvre tout ce qui est JavaScript ou TypeScript, l'optimisation de bases de données et le déploiement évolutif à l'aide d'outils modernes. Passionné et rigoureux, je m'épanouis dans des environnements dynamiques et stimulants et m'engage à promouvoir l'innovation numérique.",
   avatarUrl: "/DSC_1271.jpg",
@@ -71,7 +71,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "On-site",
-      title: "Développeur Frontend",
+      title: "Développeur Full-Stack",
       logoUrl: "GPRO Consulting",
       start: "Juillet 2024",
       end: "En Cours",
