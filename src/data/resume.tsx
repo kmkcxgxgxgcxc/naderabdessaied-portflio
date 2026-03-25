@@ -4,7 +4,7 @@ import { HomeIcon } from "lucide-react";
 export const DATA = {
   name: "Nader Abdessaied",
   initials: "RF",
-  url: "https://nader.vercel.app",
+  url: "https://chaima.vercel.app",
   location: "Tunis, TN",
   locationLink: "https://www.google.com/maps/place/tunis",
   description:
@@ -130,12 +130,10 @@ export const DATA = {
 
   projects: [
 
-    
-
     {
       title: "site eskooly",
       href: "https://eskooly.com/",
-      dates: "Mai  2025 - September  2025",
+      dates: "Novembre 2025 - Février 2025",
       active: true,
       description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
@@ -155,11 +153,35 @@ export const DATA = {
       image: "Captureeskooly.png"
     },
 
+     {
+      title: "site ecommerce",
+      href: "https://www.leboncoin.fr/",
+      dates: "Juillet 2025 - Octobre 2025",
+      active: true,
+      technologies: [
+        "React",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS",
+        "React Redux",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.leboncoin.fr/",
+          icon: <Icons.globe className="size-3" />,
+        },
+
+      ],
+      image: "/Captureleboncoin.png",
+      video:"",
+    },
+
     {
       title: "site workly",
       href: "https://workly.io/en",
        description: "Nous avons conçu une solution robuste qui sert à gérer  les heures des employés dans la sociéte.",    
-      dates: "Decembre 2024 - Avril 2025",
+      dates: "Mars 2025 - Juin 2025",
       active: true,
       technologies: [
         "React",
@@ -179,10 +201,34 @@ export const DATA = {
       video: "",
     },
 
+     {
+      title: "site de livraison de repas sous abonnement",
+      href: "https://www.lyveat.com",
+      dates: "Novembre 2024 - Février 2025",
+      active: true,
+      technologies: [
+        "React",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS",
+        "React Redux",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.lyveat.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+
+      ],
+      image: "/lyveatcapture.png",
+      video:"",
+    },
+
 {
       title: "site ehs",
       href: "https://www.ehs.com",
-      dates: "Juillet 2024 - Novembre 2024",
+      dates: "Juillet 2024 - Octobre 2024",
       active: true,
       technologies: [
       "React",
@@ -204,34 +250,15 @@ export const DATA = {
     
     
 
+  
 
 
+    
 
-     {
-      title: "site de livraison de repas sous abonnement",
-      href: "https://www.lyveat.com",
-      dates: "Mai 2023 - Octobre 2023",
-      active: true,
-      technologies: [
-         "Angular",
-        "Typescript",
-        "Angular Material ",
-        "Tailwind CSS",
-        "NgRx",
-        "NodeJS",
-        "MongoDB"
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.lyveat.com",
-          icon: <Icons.globe className="size-3" />,
-        },
+  
 
-      ],
-      image: "/lyveatcapture.png",
-      video:"",
-    },
+
+    
 
     
 
