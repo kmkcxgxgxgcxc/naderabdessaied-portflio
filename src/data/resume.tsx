@@ -94,7 +94,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "On-site",
-      title: " Développeur Frontend JS/TS",
+      title: " Développeur Full-Stack JS/TS",
       logoUrl: "/Devokt.png",
       start: "Juillet 2023",
       end: "avril 2023",
