@@ -150,13 +150,15 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "Captureeskooly.png"
+      image: "Captureeskooly.png",
+      video:"",
     },
 
      {
       title: "site ecommerce",
       href: "https://www.leboncoin.fr/",
       dates: "Juillet 2025 - Octobre 2025",
+      description:"",
       active: true,
       technologies: [
         "React",
@@ -213,6 +215,7 @@ export const DATA = {
         "Tailwind CSS",
         "React Redux",
       ],
+      description:"",
       links: [
         {
           type: "Website",
@@ -230,6 +233,7 @@ export const DATA = {
       href: "https://www.ehs.com",
       dates: "Juillet 2024 - Octobre 2024",
       active: true,
+      description:"",
       technologies: [
       "React",
         "Typescript",
