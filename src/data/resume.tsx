@@ -133,7 +133,7 @@ export const DATA = {
     {
       title: "site eskooly",
       href: "https://eskooly.com/",
-      dates: "Novembre 2025 - Février 2025",
+      dates: "Novembre 2025 - Février 2026",
       active: true,
       description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
