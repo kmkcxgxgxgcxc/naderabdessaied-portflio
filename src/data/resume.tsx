@@ -84,8 +84,8 @@ export const DATA = {
       location: "Hybrid",
       title: "Développeur  Java",
       logoUrl: "/Biilcom Consulting.jpg",
-      start: "mai 2023",
-      end: "Jui 2024",
+      start: "Juin 2024",
+      end: "Mai 2023",
       
     },
 
@@ -96,8 +96,8 @@ export const DATA = {
       location: "On-site",
       title: " Développeur Full-Stack JS/TS",
       logoUrl: "/Devokt.png",
-      start: "Juillet 2023",
-      end: "avril 2023",
+      start: "Avril 2023",
+      end: "Juillet 2022",
     },
 
    
@@ -112,16 +112,16 @@ export const DATA = {
       href: "https://www.episup.com/fr",
       degree: "Licence applique en développement web et multimédia",
       logoUrl: "/téléchargement.jpeg",
-      start: "2020",
-      end: "2023",
+      start: "2022",
+      end: "2019",
     },
     {
       school: "Institut Supérieur des Études Technologiques de Sousse (IsetSo)",
       href: "https://isetso.rnu.tn/",
       degree: "Ingénierie logicielle",
       logoUrl: "/1280px-Logo_EPI_Sousse.png",
-      start: "2020",
-      end: "2023",
+      start: "2019",
+      end: "2016",
     },
 
   ],
